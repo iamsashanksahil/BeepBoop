@@ -232,6 +232,9 @@ This project is intended for educational and development purposes. Ensure compli
 ## Developer Information
 
 **Project Name:** Discord Server Bot
+
 **Developed By:** Sashank Sahil & Himanshu Ranjan
+
 **Language:** Python
+
 **Type:** Discord Automation & Entertainment Bot
