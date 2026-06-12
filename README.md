@@ -4,7 +4,7 @@
 
 **Boop** is a multifunctional Discord bot developed using Python and the Discord API. The bot provides entertainment, automation, moderation assistance, welcome interactions, and voice channel music playback features for Discord servers.
 
-The bot is designed to improve server engagement by responding to user interactions, welcoming new members with customized messages and images, and supporting music streaming through voice channels.
+The bot is designed to improve server engagement by responding to user interactions, welcoming new members with customized messages and images, and supporting music streaming through voice channels. 
 
 ---
 
@@ -17,7 +17,7 @@ Boop automatically welcomes new members when they join a Discord server.
 #### Features:
 
 * Randomized welcome messages
-* Welcome images and GIFs
+* Welcome images and GIFs 
 * User avatar customization
 * Rounded profile image generation using PIL
 
