@@ -1,5 +1,5 @@
 # Beep Boop Discord Bot
-
+ 
 ## Overview
 
 **Boop** is a multifunctional Discord bot developed using Python and the Discord API. The bot provides entertainment, automation, moderation assistance, welcome interactions, and voice channel music playback features for Discord servers.
